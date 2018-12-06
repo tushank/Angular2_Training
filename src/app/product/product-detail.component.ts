@@ -15,7 +15,4 @@ export class ProductDetailComponent implements OnInit {
     this.pageTitle += `: ${id}`;
     console.log('id retrive : ', this.pageTitle);
   }
-
-  onBa
-
 }
